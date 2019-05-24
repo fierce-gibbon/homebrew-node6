@@ -63,4 +63,3 @@ class NodeAT6 < Formula
     system "#{bin}/npm", *npm_args, "install", "bignum"
   end
 end
-(END)
